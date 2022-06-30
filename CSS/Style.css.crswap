@@ -1,0 +1,61 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 16
+    px;
+}
+
+
+.encabezado a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Expletus Sans', cursive;
+    font-size: 4rem;
+    
+       
+}
+
+.listaBarraNav{
+    list-style-type: none;
+   
+}
+
+.listaBarraNav a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+}
+
+.listaBarraNav li{
+    display: inline-block;
+
+}
+
+.homeHeader{
+    background-image: url(../Images/Prueba.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: black;
+    border-width: auto;
+    border-style: solid;
+    width: 100vw;
+    margin: auto;
+    padding:auto;    
+}
+
+
+
+.barraNav{
+  padding-left: 10vw;
+ 
+}
+
+.iconos{
+    display: ;
+}
+
