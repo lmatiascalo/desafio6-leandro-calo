@@ -55,6 +55,7 @@ nav{
 
    align-items: center;
    justify-items: center;
+   margin-bottom: 10px;
 
    height: 20vh;
            
@@ -76,7 +77,7 @@ main{
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
-    margin-top: 100px;
+    margin-bottom: 10px;
     
 }
 
@@ -117,4 +118,46 @@ main{
 
     width: 80px;
     height: 80px;
+}
+
+footer{
+
+    background:linear-gradient(to top,  blue,red);
+    border-radius: 20px;
+    padding: 10px;
+
+    
+
+}
+
+.iconos{
+
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.copyright{
+
+    
+
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   font-weight: bold;
+   
+    
+}
+
+.navFooter{
+    
+      
+    display: flex;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   font-weight: bold;
+
 }
